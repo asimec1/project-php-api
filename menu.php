@@ -17,6 +17,8 @@
 		}
 		print '
 		<li><a href="index.php?menu=10">OMDB API</a></li>
+		<li><a href="index.php?menu=11">Football (JSON)</a></li>
 		<li><a href="https://www.hnb.hr/hnb-api" target="_blank">API HNB (XML)</a></li>
+		<li><a href="https://github.com/public-apis/public-apis" target="_blank">Free APIs</a></li>
 	</ul>';
 ?>

@@ -104,10 +104,13 @@ print '
 	# API OMDB
 	else if ($menu == 10) { include("omdb.php"); }
 	
+	# API football
+	else if ($menu == 11) { include("football.php"); }
+	
 	print '
 	</main>
 	<footer>
-		<p>Copyright &copy; ' . date("Y") . ' Alen Šimec. <a href="https://github.com/asimec1?tab=repositories" style="color:#fff">GITHub</a></p>
+		<p>Copyright &copy; ' . date("Y") . ' Alen Šimec. <a href="https://github.com/asimec1/project-php-api" style="color:#fff">GITHub</a></p>
 	</footer>
 </body>
 </html>';
