@@ -1,5 +1,5 @@
 <?php 
-$json = file_get_contents('http://api.hnb.hr/tecajn/v1');
+$json = file_get_contents('https://api.hnb.hr/tecajn-eur/v3');
 
 //Decode JSON
 $json_data = json_decode($json,true);
