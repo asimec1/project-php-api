@@ -89,13 +89,10 @@ Uploadajte snimljeni video projekta.
 
 Kod postavljanja videa:
 
-odaberite naslov (npr. Ime Prezime – Naziv predmeta – Projekt),
-
-opcija privatnosti: Public / Javno,
-
-nemojte stavljati video na Private, jer se tada ne može pregledati preko linka.
-
-Kada je upload gotov, kopirajte link videa, primjer:
+1. odaberite naslov (npr. Ime Prezime – Naziv predmeta – Projekt),
+2. opcija privatnosti: Public / Javno,
+3. nemojte stavljati video na Private, jer se tada ne može pregledati preko linka.
+4. Kada je upload gotov, kopirajte link videa, primjer:
 
 Youtube
 https://youtube.com/watch?v=XXXXXXX
@@ -141,15 +138,11 @@ BITNO: U ovoj .txt datoteci moraju biti oba linka – GitHub i YouTube.
 ```
 
 ## 7. Upload na Moodle
-Ulogirajte se na Moodle.
-
-Otvorite svoj predmet.
-
-Pronađite aktivnost / zadatak za upload samostalnih projekata i seminara.
-
-U taj zadatak uploadajte .txt datoteku koju ste izradili u prethodnom koraku.
-
-Ako je predviđeno, u istoj ili drugoj aktivnosti uploadajte i seminar (vidi poglavlje 8).
+1. Ulogirajte se na Moodle.
+2. Otvorite svoj predmet.
+3. Pronađite aktivnost / zadatak za upload samostalnih projekata i seminara.
+4. U taj zadatak uploadajte .txt datoteku koju ste izradili u prethodnom koraku.
+5. Ako je predviđeno, u istoj ili drugoj aktivnosti uploadajte i seminar (vidi poglavlje 8).
 
 **BITNO:** Ako .txt datoteka s linkovima nije uploadana na Moodle, projekt se službeno ne smatra predanim.
 
@@ -157,19 +150,14 @@ Ako je predviđeno, u istoj ili drugoj aktivnosti uploadajte i seminar (vidi pog
 
 Uz projekt je OBAVEZNO predati i seminar.
 
-Napišite seminar prema uputama:
+1. Napišite seminar prema uputama:
 
-minimalni broj 6-7 stranica,
-
-struktura (uvod, teorijski dio, analiza, metodologija, zaključak...),
-
-tema povezana s predmetom po izboru studenta, ali **NIKAKO O PROJEKTU KOJEG STE RADILI**.
-
-Seminar napišite u npr. MS Wordu.
-
-Spremite seminar u DOCX formatu.
-
-Seminar uploadajte na Moodle (u odgovarajući zadatak).
+   - minimalni broj 6-7 stranica,
+   - struktura (uvod, teorijski dio, analiza, metodologija, zaključak...),
+   - tema povezana s predmetom po izboru studenta, ali **NIKAKO O PROJEKTU KOJEG STE RADILI**.
+   - Seminar napišite u npr. MS Wordu.
+   - Spremite seminar u DOCX formatu.
+   - Seminar uploadajte na Moodle (u odgovarajući zadatak).
 
 **BITNO:** Seminar je OBAVEZAN dio zadatka. Bez predanog seminara zadatak se ne smatra kompletno odrađenim.
 
@@ -177,11 +165,9 @@ Seminar uploadajte na Moodle (u odgovarajući zadatak).
 
 Na MS Teams postoji zajednički kanal za svaku grupu. U tom kanalu:
 
-Otvorite kanal vaše grupe.
-
-Kliknite na karticu Datoteke (Files).
-
-U odgovarajuću mapu (prema uputi) uploadajte sljedeće:
+1. Otvorite kanal vaše grupe.
+2. Kliknite na karticu Datoteke (Files).
+3. U odgovarajuću mapu (prema uputi) uploadajte sljedeće:
 
 ### 9.1. OBAVEZNO na MS Teams
 Sljedeće datoteke i linkovi moraju biti prisutni u Teamsima:
@@ -202,42 +188,24 @@ Sljedeće datoteke i linkovi moraju biti prisutni u Teamsima:
 
 ## 10. Sažetak obaveznih koraka
 
-Student je dužan napraviti sljedeće:
-
-Izraditi web projekt (web stranicu).
-
-Napraviti screen recording videa projekta.
-
-Postaviti projekt na GitHub.
-
-Postaviti video projekta na YouTube.
-
-Napraviti .txt datoteku sa:
-
-imenom i prezimenom,
-
-nazivom predmeta,
-
-nazivom projekta (po potrebi),
-
-linkom na GitHub,
-
-linkom na YouTube.
-
-Uploadati .txt datoteku na Moodle.
-
-Izraditi i predati seminar (OBAVEZNO) na Moodle.
-
-Na MS Teams – Datoteke (Files) uploadati:
-
-video projekta,
-
-5–6 screenshota projekta (min. jedna slika po stranici),
-
-link na GitHub,
-
-link na YouTube,
-
-seminar.
+1. Student je dužan napraviti sljedeće:
+2. Izraditi web projekt (web stranicu).
+3. Napraviti screen recording videa projekta.
+4. Postaviti projekt na GitHub.
+5. Postaviti video projekta na YouTube.
+6. Napraviti .txt datoteku sa:
+   - imenom i prezimenom,
+   - nazivom predmeta,
+   - nazivom projekta (po potrebi),
+   - linkom na GitHub,
+   - linkom na YouTube.
+7. Uploadati .txt datoteku na Moodle.
+8. Izraditi i predati seminar (OBAVEZNO) na Moodle.
+9. Na MS Teams – Datoteke (Files) uploadati:
+   - video projekta,
+   - 5–6 screenshota projekta (min. jedna slika po stranici),
+   - link na GitHub,
+   - link na YouTube,
+   - seminar.
 
 **Ako je ijedan od ovih elemenata izostavljen, projekt se može smatrati nepotpunim.**
