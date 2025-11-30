@@ -184,7 +184,7 @@ Sljedeće datoteke i linkovi moraju biti prisutni u Teamsima:
 
 **Seminar (OBAVEZNO)** seminar u DOCX formatu.
 
-**BITNO: ** Sve gore navedeno mora biti uploadano u Teams – Datoteke (Files) kako bi se projekt smatrao kompletno predanim i lako preglednim.
+**BITNO:** Sve gore navedeno mora biti uploadano u Teams – Datoteke (Files) kako bi se projekt smatrao kompletno predanim i lako preglednim.
 
 ## 10. Sažetak obaveznih koraka
 
