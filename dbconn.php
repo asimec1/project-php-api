@@ -12,4 +12,4 @@
 
 	# Connect to MySQL database
 
-	$MySQL = mysqli_connect("localhost","eburza_pwa","eburza_pwa","eburza_pwa") or die('Error connecting to MySQL server.');
+	$MySQL = mysqli_connect("localhost","","","") or die('Error connecting to MySQL server.');
