@@ -1,3 +1,7 @@
+---
+title: Napredno web projektiranje web servisa
+permalink: /ntpws/
+---
 # Napredno web projektiranje web servisa
 
 **Upute za izradu semestralnog projekta**
